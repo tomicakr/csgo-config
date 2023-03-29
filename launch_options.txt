@@ -1,0 +1,1 @@
+-tickrate 128 +fps_max 200 -novid -nojoy +cl_forcepreload +exec autoexec -high -forcenovsync -limitvconst +r_dynamic 0 -softparticlesdefaultoff +mat_queue_mode +mat_disable_fancy_blending 1
